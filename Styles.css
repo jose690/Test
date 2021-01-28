@@ -1,0 +1,39 @@
+header
+{
+background-color:rgb(255, 255, 255);
+text-align:center;
+}
+
+.submenu
+{
+    float: center;
+    height:100px;
+    width:500px;
+    margin-top:40px;
+    background-color:white;
+    margin: 0 auto;
+    text-align:center;
+    border-radius:8px;
+}
+.submenu h1 {
+    display: inline-block;
+}
+
+.logo01{
+    float:left;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-left: 0;
+    padding-right: 10px;
+    padding-bottom: 0;
+}
+
+.submenu a, h1{
+    margin-left: 15px;
+}
+
+.submenu a{
+    font-size: large;
+}
